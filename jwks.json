@@ -3,8 +3,7 @@
     {
       "kid": "finacle",
       "alg": "RS256",
-      "kty": "RSA",
-      "use": "sig",
+      "kty": "RSA",      
       "n": "AJdegP7I3dBObVQ-p-O4ZLEGSKWI7pip4m3_KWOxiOytVdq2Top0kgaC9Wdh55QWpZkUb2qHdNVbg-pplGuagvjYujtwXR9BAPIHzTJGMEpVhxp8hVb5rgBiFxEKhlCi8YO3m1Vvs0awXbKHEbypFkrIu5A8iuZu3JhPPtM1TsAPIHM-RVi0TKyrXMpF6IiYELASH9DV-DUPEiUHi1E-cW1pM6ykrFDl2JqDzXByVDU1Di5Ry2DkD4a4EpyQAjCoGmFMW-ROCEVzKBq69qJDrVZ5G00Mo35O2RO8JEBPU-d_EtdvoOwDHaY7F_VTh68Opgs4y2T3NxWG_ikEjVo1vuc=",
       "e": "AQAB"
     }
