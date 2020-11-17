@@ -1,11 +1,1 @@
-{
-  "keys": [
-    {
-      "kid": "finacle",
-      "alg": "RS256",
-      "kty": "RSA",
-      "n": "ANYjBYHRgYTjcCx7DuBk82RDoPRc9dXmTl47R6IVF-xtJKp-rtDbpWLTjt-7n3_ZO-M5v9FFsSoYSmKLxO2HlC3b2foyxhGWoCjm3jNiFtOzoS-RkuaglzJkIvEEt1D0iwrUqsgtmg-DWXd3cs7-mEeE5holiH3RoCOlZchCxXc64yKcPQgnmOvyvlFOw3HE8Iimx-eoBhAeg4-j7o_UzTMW-YzQo4guu4PDRN3dWHNkFQNkD9E0uJdk9bboCcoct8uW-CgT8sCY35OoW2NXjHVygLBRjLY0gHvHr6MkXnTsyQOH6aK-avUq0zenTwfbw0o216JBff3stYb8RncugEk=",
-      "e": "AQAB"
-    }
-  ]
-}
+{"keys":[{"kid":"finacle","alg":"RS256","kty":"RSA","n":"ALO4qvT-Z1dC6dynKs9eboH36kgAoIqptT2UBgZ59kLjVV7YwhFP9VPSLq4zStdYCAhGKBgFzVutA3_cDEy1qCegrVbmGCuIOHF0WUv2TLyvltuDmEpP6fTl4xnbcAKSAzqZDtMe4AZSRK7Nvv9HwdZwTZJpY60T_DRomvdkYdxfQaO7FBinzuZs5rg1hV9xkTnbHg2X-1CeWe8T0jha_cdC0u_dwYFPiNDttoEPGmdNB9cs40YQQNkICW2_X73DiLoygPiyzXtEPzDCf7WfDmWdVSryRjoQTh9oFM1OGu5GqxPBKNHQxvObIoPZIdqvjTDhv8cFRffHmui2MtPRFkk=","e":"AQAB"}]}
